@@ -1,1 +1,1 @@
-### This is a redis demo repo
+### Redis Demo
