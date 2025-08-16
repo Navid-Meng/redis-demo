@@ -1,4 +1,4 @@
-import client from "./lib/redisClient.js"
+import client from "./redisClient.js"
 import { v4 as uuidv4 } from "uuid"
 
 const item = {
